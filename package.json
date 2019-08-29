@@ -1,0 +1,13 @@
+{
+  "name": "insomnia-plugin-keychain",
+  "version": "0.1.0",
+  "main": "keychain.js",
+  "insomnia": {
+    "name": "keychain",
+    "description": "Fetches secrets from the MacOS keychain"
+  },
+  "dependencies": {
+    "keychain": "1.3.0",
+    "util": "0.12.1"
+  }
+}
