@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-keychain",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "An Insomnia plugin that adds a template tag for fetching passwords from the macOS keychain",
   "author": "Simon Whitaker",
   "license": "UNLICENSE",
